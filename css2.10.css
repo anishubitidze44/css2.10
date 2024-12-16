@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#maincontainer {
+    padding: 64px 158px 368px 158px;
+}
+#colorfuldiv {
+    padding: 96px;
+    background: #E2F7FF;
+}
+#mainimg {
+    border-radius: 16px;
+    text-align: center;
+}
+#olivia {
+    color: #6941C6;
+    font-size: 14px;
+    margin-top: 20px;
+}
+#ux {
+    color: #181D27;
+    font-size: 30px;
+    margin-top: 8px;
+}
+#paragraph {
+    overflow: hidden;
+    color: #535862;
+    font-size: 16px;
+    margin-top: 8px;
+}
+#buttonfirst {
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    color: #026AA2;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 16px;
+}
+#buttonsecond {
+    padding: 8px 12px;
+    text-align: center;
+    border: 1px solid #C7D7FE;
+    border-radius: 8px;
+    background: #EEF4FF;
+    color: #3538CD;
+    font-size: 14px;
+    margin-top: 16px;
+    margin-left: 8px;
+}
+#buttonthird {
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    color: #C11574;
+    font-size: 14px;
+    margin-top: 16px;
+    margin-left: 8px;
+}
+#firstdiv {
+    width: 384px;
+    margin-top: 64px;
+}
+#divdiv {
+    width: 384px;
+
+}
+#baker {
+    color: #6941C6;
+    font-size: 14px;
+    margin: 20px;
+    margin-left: 2px;
+}
+#migrating {
+    display: inline-block;
+    color: #181D27;
+    font-size: 24px;
+    width: 344px;
+
+}
+#linear {
+    overflow: hidden;
+    color: #535862;
+    font-size: 16px;
+    margin-top: 8px;
+}
+#products {
+    padding: 8px 12px;
+    border: 1px solid #B9E6FE;
+    background: #F0F9FF;
+    border-radius: 16px;
+    color: #026AA2;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 24px;
+}
+#tools {
+    padding: 8px 12px;
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    border-radius: 16px;
+    color: #C11574;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 24px;
+    margin-left: 8px;
+}
+
+    
+#saas {
+    padding: 8px 12px;
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    border-radius: 16px;
+    color: #C11574;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 24px;
+    margin-left: 8px;
+}
